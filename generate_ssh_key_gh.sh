@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# This is a helper script for generating a new SSH key for GitHub so I don't have to always remember it
 # Prompt the user for their email
 read -p "Enter your GitHub email: " email
 
